@@ -72,7 +72,7 @@ namespace NUnitToDo
             capabilities.SetCapability(CapabilityType.BrowserName, browser);
             capabilities.SetCapability(CapabilityType.Version, version);
             capabilities.SetCapability(CapabilityType.Platform, os);
-            capabilities.SetCapability("build", "Selenium C# ToDo Demo");
+            capabilities.SetCapability("build", "Selenium C# ToDo Demo_Sample");
 
             capabilities.SetCapability("user", LT_USERNAME);
             capabilities.SetCapability("accessKey", LT_ACCESS_KEY);

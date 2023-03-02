@@ -75,7 +75,7 @@ namespace NUnitSeleniumPlayground
             capabilities.SetCapability(CapabilityType.BrowserName, browser);
             capabilities.SetCapability(CapabilityType.Version, version);
             capabilities.SetCapability(CapabilityType.Platform, os);
-            capabilities.SetCapability("build", "[HyperTest] Selenium C# Playground Demo");
+            capabilities.SetCapability("build", "Selenium C# Playground Demo_Sample");
 
             capabilities.SetCapability("user", NUnitToDo.NUnitSeleniumSample.LT_USERNAME);
             capabilities.SetCapability("accessKey", NUnitToDo.NUnitSeleniumSample.LT_ACCESS_KEY);
