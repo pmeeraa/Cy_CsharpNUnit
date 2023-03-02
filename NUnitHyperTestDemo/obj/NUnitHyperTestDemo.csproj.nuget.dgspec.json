@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/meerap/IdeaProjects/CSharp-NUnit-Selenium/NUnitHyperTestDemo/NUnitHyperTestDemo.csproj": {}
+    "/Users/meerap/IdeaProjects/Cy_CsharpNUnit/NUnitHyperTestDemo/NUnitHyperTestDemo.csproj": {}
   },
   "projects": {
-    "/Users/meerap/IdeaProjects/CSharp-NUnit-Selenium/NUnitHyperTestDemo/NUnitHyperTestDemo.csproj": {
+    "/Users/meerap/IdeaProjects/Cy_CsharpNUnit/NUnitHyperTestDemo/NUnitHyperTestDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/meerap/IdeaProjects/CSharp-NUnit-Selenium/NUnitHyperTestDemo/NUnitHyperTestDemo.csproj",
+        "projectUniqueName": "/Users/meerap/IdeaProjects/Cy_CsharpNUnit/NUnitHyperTestDemo/NUnitHyperTestDemo.csproj",
         "projectName": "NUnitHyperTestDemo",
-        "projectPath": "/Users/meerap/IdeaProjects/CSharp-NUnit-Selenium/NUnitHyperTestDemo/NUnitHyperTestDemo.csproj",
+        "projectPath": "/Users/meerap/IdeaProjects/Cy_CsharpNUnit/NUnitHyperTestDemo/NUnitHyperTestDemo.csproj",
         "packagesPath": "/Users/meerap/.nuget/packages/",
-        "outputPath": "/Users/meerap/IdeaProjects/CSharp-NUnit-Selenium/NUnitHyperTestDemo/obj/",
+        "outputPath": "/Users/meerap/IdeaProjects/Cy_CsharpNUnit/NUnitHyperTestDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/meerap/.nuget/NuGet/NuGet.Config"
